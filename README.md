@@ -41,5 +41,3 @@ Open **http://localhost:3000**
 - **Backend:** C++17, Crow (HTTP/WebSocket), nlohmann/json, Raft consensus
 - **Frontend:** React, Tailwind CSS, HTML5 Canvas, WebSocket
 
-## Built by
-Astha Kumari · RNSIT · 2026
